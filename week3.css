@@ -1,0 +1,30 @@
+#main1  {
+    float: left;
+    width:50%;
+    height: 180px;
+    background-color: aqua;
+}
+
+#main2  {
+    float: left;
+    width:30%;
+    background-color: yellow;
+}
+
+#main3 {
+    float: left;
+    width:30%;
+    height:130px;
+    background-color: red;
+}
+
+#footer {
+   float: left;
+   width:80%;
+   background-color: green;
+}
+
+#nav {
+    clear: left;
+}
+
